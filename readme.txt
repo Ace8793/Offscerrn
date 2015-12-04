@@ -7,4 +7,4 @@ Creating a new branch is quick AND simple.
 000
 111
 
-merge in master
+merge not in master or dev
